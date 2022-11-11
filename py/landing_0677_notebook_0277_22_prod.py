@@ -105,7 +105,7 @@ def parse(xml_data):
     entries = []
     for node in nodes_entry:
         entry = {}
-        for child in node:sssssssssssssssssssssssssssssssssssssss
+        for child in node:
             tag = tag_pattern.sub('', child.tag)
             if tag == 'content' and child.attrib['type'] != 'text':
                 continue
