@@ -1,0 +1,1 @@
+# dm-pos-ratings-CaixaTem-AppleStore
